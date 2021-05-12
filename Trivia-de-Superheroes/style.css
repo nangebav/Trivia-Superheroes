@@ -1,0 +1,125 @@
+*{
+  text-align: center;
+  margin: 0%;
+  padding: 0%
+  }
+
+body{
+  width: 100vw ;
+  height: 100vh ;
+  margin: 0%;
+}
+.pantalla {
+  background-image: url(https://i.ytimg.com/vi/Wj6oo0dtANY/maxresdefault.jpg);
+  opacity: 0.9 ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw ;
+  height: 100vh;
+  }
+
+.pantalla h1{
+  color: aliceblue;
+  font-family:fantasy;
+  padding-top: 65px;
+  font-size: 65px
+  }
+
+.pantalla h2{
+  color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px;
+  padding-top: 140px;
+  }
+
+.pantalla p{
+  color: aliceblue;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande','Lucida Sans', Arial, sans-serif;
+  padding: 7px
+  }
+
+.pantalla button {
+  background-color: aliceblue; 
+  border:1.5px solid black;
+  color: black;
+  padding: 6px ;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 4px;
+  }
+
+.marvel {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34d6795b-cebd-411a-a522-636ff6704ff8/d8x9kcy-2d8f0016-874a-4730-8950-62a23fb496ba.png/v1/fill/w_1192,h_670,q_70,strp/captain_america_winter_soldier___desktop_wallpaper_by_skauf99_d8x9kcy-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMDgwIiwicGF0aCI6IlwvZlwvMzRkNjc5NWItY2ViZC00MTFhLWE1MjItNjM2ZmY2NzA0ZmY4XC9kOHg5a2N5LTJkOGYwMDE2LTg3NGEtNDczMC04OTUwLTYyYTIzZmI0OTZiYS5wbmciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.41vfQ7L_Kj7YYbmxGZBfjqpD4TEPWA0cbSonrE4qab0);
+  opacity: 0.9 ;
+  background-size: cover;
+  background-repeat: no-repeat
+  width: 100vw ;
+  height: 100vh;
+}
+
+.marvel h1{
+  color: black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 65px;
+  font-size: 45px
+}
+.marvel h2{
+  color: aliceblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px;
+  padding-top: 140px;
+  }
+
+.marvel p{
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande','Lucida Sans', Arial, sans-serif;
+  padding: 7px
+  }
+
+.marvel button {
+  background-color: rgb(184, 184, 184); 
+  border:1.5px solid black;
+  color: black;
+  padding: 10px ;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.dc {
+  background-image: url(https://images2.alphacoders.com/446/thumb-1920-446666.jpg);
+  opacity: 0.9 ;
+  background-size: cover;
+  background-repeat: no-repeat
+  width: 100vw;
+  height: 100vh;
+}  
+.dc h1{
+  color: black;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 65px;
+  font-size: 45px
+}
+.dc h2{
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px;
+  padding-top: 140px;
+  }
+
+.dc p{
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande','Lucida Sans', Arial, sans-serif;
+  padding: 7px
+  }
+
+.dc button {
+  background-color: rgb(131, 128, 128); 
+  border:1.5px solid black;
+  color: black;
+  padding: 10px ;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+  text-decoration-color: whitesmoke
+}
